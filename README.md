@@ -1,8 +1,6 @@
-# DoAn_Web1
+# DoAn_Web
 
-Donate? Muốn hỗ trợ mình 1 ly cafe <3 [Donate here](https://github.com/HoangTran0410/HoangTran0410/blob/main/DONATE.md)
-
-Đồ án môn web 1, web tĩnh, đề tài trang web bán điện thoại.
+Đồ án môn web , web tĩnh, đề tài trang web bán điện thoại.
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
 
@@ -21,8 +19,8 @@ Chức năng **ADMIN**:
 - Danh sách **khách hàng**, tìm kiếm/lọc, thêm/xoá/khoá khác hàng
 
 ## Admin Account: 
-+ username: admin
-+ password: adadad
++ username: Admin
++ password: Admin
 
 ## Screenshots
 
